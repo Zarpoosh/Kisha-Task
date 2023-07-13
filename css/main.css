@@ -1,0 +1,13 @@
+/* section */
+section {
+  background-color: #202124;
+}
+#social a {
+  background-color: gray;
+}
+#col1  li {
+  border-bottom: 1px solid rgba(128, 128, 128, 0.514);
+}
+#col2  li {
+  border-bottom: 1px solid rgba(128, 128, 128, 0.514);
+}
